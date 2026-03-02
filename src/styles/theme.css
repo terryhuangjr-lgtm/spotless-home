@@ -1,0 +1,18 @@
+@import "./fonts.css";
+
+@theme {
+  /* Vicki's Secret Cleaning - Soft & Feminine Theme */
+  --font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  
+  /* Colors */
+  --color-lavender: #e9d5ff;
+  --color-pink: #fecdd3;
+  --color-sage: #bbf7d0;
+  --color-cream: #fffbeb;
+  --color-soft-purple: #c084fc;
+  --color-soft-pink: #fb7185;
+}
+
+body {
+  font-family: var(--font-family);
+}
