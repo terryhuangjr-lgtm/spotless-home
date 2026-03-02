@@ -124,8 +124,8 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <p className="font-semibold text-gray-600 mb-1">Email</p>
-                    <a href="mailto:vicki@vickisecretcleaning.com" className="text-xl font-bold text-gray-900 hover:text-purple-600 transition-colors break-all">
-                      vicki@vickisecretcleaning.com
+                    <a href="mailto:margot@spotlesshomecleaning.com" className="text-xl font-bold text-gray-900 hover:text-purple-600 transition-colors break-all">
+                      margot@spotlesshomecleaning.com
                     </a>
                   </div>
                 </div>
