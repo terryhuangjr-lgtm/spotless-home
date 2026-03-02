@@ -9,7 +9,7 @@ export default function Header() {
           <div className="flex items-center gap-2">
             <Sparkles className="w-7 h-7 text-purple-400" />
             <h1 className="text-3xl font-bold bg-gradient-to-r from-purple-400 via-pink-400 to-rose-400 bg-clip-text text-transparent">
-              Vicki's Secret Cleaning
+              Spotless Home Cleaning
             </h1>
             <Sparkles className="w-7 h-7 text-pink-400" />
           </div>
