@@ -1,7 +1,7 @@
 
-  # Vicki's Cleaning Site
+  # Spotless Home Cleaning Site
 
-  This is a code bundle for Vicki's Cleaning Site. The original project is available at https://www.figma.com/design/D6d8Dj0402jFPFxYszwaH9/Vicki-s-Cleaning-Site.
+  This is a code bundle for Spotless Home Cleaning Site. The original project is available at https://www.figma.com/design/D6d8Dj0402jFPFxYszwaH9/Vicki-s-Cleaning-Site.
 
   ## Running the code
 
