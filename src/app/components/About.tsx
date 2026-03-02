@@ -14,14 +14,14 @@ export default function About() {
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div className="order-2 lg:order-1">
             <h2 className="text-5xl font-bold text-gray-900 mb-6">
-              Meet Vicki,
+              Meet Margot,
               <br />
               <span className="bg-gradient-to-r from-purple-500 to-pink-500 bg-clip-text text-transparent">
-                Your Cleaning Expert
+                Spotless Home Cleaning Owner
               </span>
             </h2>
             <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-              Hi! I'm Vicki, and I started Vicki's Secret Cleaning with a simple mission: 
+              Hi! I'm Margot, and I started Spotless Home Cleaning with a simple mission: 
               to give Long Island families the gift of time by taking care of their cleaning needs 
               with care, attention to detail, and a personal touch.
             </p>
