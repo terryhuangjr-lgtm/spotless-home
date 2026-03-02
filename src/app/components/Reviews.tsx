@@ -6,37 +6,37 @@ export default function Reviews() {
       name: "Jennifer Martinez",
       date: "2 weeks ago",
       rating: 5,
-      text: "Vicki is absolutely amazing! She cleaned my home before a big party and everything was spotless. Her attention to detail is incredible - she even organized my pantry without being asked! Highly recommend!"
+      text: "Margot is absolutely amazing! She cleaned my home before a big party and everything was spotless. Her attention to detail is incredible - she even organized my pantry without being asked! Highly recommend!"
     },
     {
       name: "David Chen",
       date: "1 month ago",
       rating: 5,
-      text: "We've been using Vicki's services for 6 months now and couldn't be happier. She's reliable, thorough, and trustworthy. Coming home to a clean house every week is such a relief!"
+      text: "We've been using Spotless Home services for 6 months now and couldn't be happier. She's reliable, thorough, and trustworthy. Coming home to a clean house every week is such a relief!"
     },
     {
       name: "Sarah Johnson",
       date: "1 month ago",
       rating: 5,
-      text: "Best cleaning service on Long Island! Vicki is professional, friendly, and does an outstanding job. She uses eco-friendly products which is important to us with young kids. Worth every penny!"
+      text: "Best cleaning service on Long Island! Margot is professional, friendly, and does an outstanding job. She uses eco-friendly products which is important to us with young kids. Worth every penny!"
     },
     {
       name: "Michael & Lisa K.",
       date: "2 months ago",
       rating: 5,
-      text: "After our kitchen renovation, Vicki did a post-construction deep clean that was phenomenal. She removed all the dust and left everything sparkling. We now use her bi-weekly service!"
+      text: "After our kitchen renovation, Spotless Home Cleaning did a post-construction deep clean that was phenomenal. She removed all the dust and left everything sparkling. We now use her bi-weekly service!"
     },
     {
       name: "Rachel Goldstein",
       date: "2 months ago",
       rating: 5,
-      text: "Vicki is a gem! She's been cleaning my elderly mother's home and treats her with such kindness and respect. The house always looks beautiful and mom looks forward to her visits."
+      text: "Margot is a gem! She's been cleaning my elderly mother's home and treats her with such kindness and respect. The house always looks beautiful and mom looks forward to her visits."
     },
     {
       name: "Tom Anderson",
       date: "3 months ago",
       rating: 5,
-      text: "Excellent service! Vicki cleaned our office space and it's never looked better. She's flexible with scheduling and always arrives on time. Highly professional and reasonably priced."
+      text: "Excellent service! Spotless Home cleaned our office space and it's never looked better. She's flexible with scheduling and always arrives on time. Highly professional and reasonably priced."
     }
   ];
 
